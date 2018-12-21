@@ -1,1 +1,2 @@
-Basic JS drum
+# Basic JS drum
+A drum made with JS and CSS. Ba Dum Tss... 
